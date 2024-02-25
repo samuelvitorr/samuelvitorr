@@ -18,7 +18,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- MY LENGUAGES PROGRAMMING -->
+<!-- MY SKILLS -->
 ## **My Skills wall:**
 <details>
   <summary>🧮 My Programming Languages FrontEnd</summary>
@@ -91,13 +91,6 @@
     </samp>
   </div>
 </details>
-
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- SPOTIFY PLAYER -->
-<h2 align="center">My Favorite Song 🎧</h2>
-<iframe src="https://open.spotify.com/embed/track/3hql0mbMMRqo3V3XfrTu73" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media" align="center"></iframe>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
